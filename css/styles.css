@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+header {
+  text-align: right;
+  margin-top: 1%;
+}
+.menu li {
+  display: inline-block;
+}
+.menu a:visited,
+a {
+  color: #000;
+  text-decoration: none;
+  list-style: none;
+}
+.gmail {
+  text-align: center;
+  font-size: 20px;
+  margin: 2px 15px 0px 10px;
+}
+.image {
+  text-align: center;
+  font-size: 20px;
+  margin: 2px 15px 0px 0px;
+}
+.apps img {
+  height: 30px;
+  width: 30px;
+  margin: 2px 15px 0px 0px;
+  cursor: pointer;
+}
+.profile img {
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  margin: 2px 25px 0px 0px;
+  cursor: pointer;
+}
+.googleLogo img {
+  display: block;
+  margin: auto;
+  padding-top: 30px;
+  width: 444px;
+  height: 250px;
+}
+.searchContainer {
+  display: block;
+  margin: auto;
+}
+.searchContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.searchContainer {
+  height: 55px;
+  width: 550px;
+  background: white;
+  border-style: solid;
+  border-radius: 30px;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.349);
+}
+.lens img {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  padding-right: 10px;
+}
+.search input {
+  display: inline-block;
+  width: 415px;
+  height: 30px;
+  font-size: 25px;
+  border: 0px;
+  border-color: white;
+  outline: none;
+}
+.micro img {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  padding-left: 10px;
+}
+.buttons {
+  padding-top: 25px;
+  text-align: center;
+  padding-bottom: 318px;
+}
+button {
+  width: 180px;
+  height: 35px;
+  font-size: 15px;
+  outline: none;
+  border-width: 0.0001px;
+  background: #f8f9fa;
+  border-color: #f8f9fa;
+  cursor: pointer;
+}
+.country {
+  padding-left: 36px;
+  font-size: 20px;
+  color: #70757a;
+  border-bottom: 1px solid #70757a;
+}
+.end ul,
+li,
+a {
+  display: inline-block;
+  text-align: left;
+  padding-right: 10px;
+  font-size: 18px;
+}
+.end a:visited,
+ul {
+  color: #70757a;
+  text-decoration: none;
+  list-style: none;
+}
+.end2 {
+  padding-left: 980px;
+}
